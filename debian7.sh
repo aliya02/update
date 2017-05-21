@@ -250,7 +250,7 @@ wget -O /usr/bin/bench-network "$source/CentOS6/bench-network.sh"
 wget -O /usr/bin/ps-mem "$source/CentOS6/ps_mem.py"
 
 cd /usr/bin
-wget -O allcode.tar.gz "https://raw.githubusercontent.com/aliya02/update/master/menu.tar.gz"
+wget -O menu.tar.gz "https://raw.githubusercontent.com/aliya02/update/master/menu.tar.gz"
 tar -xvf menu.tar.gz
 rm -f menu.tar.gz
 
